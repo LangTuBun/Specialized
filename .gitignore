@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Keep the original notebook, notebooks and src folders
+!dem.ipynb
+!notebooks/
+!notebooks/**
+!src/
+!src/**
+
+
+!datasets.txt
+!README.md
+
+!.gitignore
